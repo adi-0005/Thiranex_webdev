@@ -1,14 +1,14 @@
 > 📌 Repository documenting my progress through the Thiranex Web Development Internship Program.
-# 🚀 THIRANEX_WD_
+# 🚀 Thiranex_webdev
 
 ### 🎓 Thiranex Web Development Internship Portfolio
 
 A clean, structured, and recruiter-friendly documentation of all projects, assignments, and practical milestones completed during my Web Development Internship at **Thiranex**.
 
-[![Internship - Thiranex](https://img.shields.io/badge/Internship-Thiranex-blue?style=flat-square&logo=rocket&color=007ACC)](https://github.com/siddesh3448)
-[![Profile - siddesh3448](https://img.shields.io/badge/Profile-siddesh3448-purple?style=flat-square&logo=github&color=6A1B9A)](https://github.com/siddesh3448)
-[![Progress - 2 / 5 Tasks](https://img.shields.io/badge/Progress-2_/_5_Completed-orange?style=flat-square&color=FF9800)](https://github.com/siddesh3448/THIRANEX_WD_01)
-[![Accessibility - WCAG AA](https://img.shields.io/badge/Accessibility-WCAG_2.1_AA-teal?style=flat-square&logo=accessibility&color=009688)](https://github.com/siddesh3448/THIRANEX_WD_01)
+[![Internship - Thiranex](https://img.shields.io/badge/Internship-Thiranex-blue?style=flat-square&logo=rocket&color=007ACC)](https://github.com/adi-0005)
+[![Profile - adi-0005](https://img.shields.io/badge/Profile-adi-0005-purple?style=flat-square&logo=github&color=6A1B9A)](https://github.com/adi-0005)
+[![Progress - 2 / 5 Tasks](https://img.shields.io/badge/Progress-2_/_5_Completed-orange?style=flat-square&color=FF9800)](https://github.com/adi-0005/THIRANEX_WD_01)
+[![Accessibility - WCAG AA](https://img.shields.io/badge/Accessibility-WCAG_2.1_AA-teal?style=flat-square&logo=accessibility&color=009688)](https://github.com/adi-0005/THIRANEX_WD_01)
 
 ---
 
@@ -131,7 +131,7 @@ THIRANEX_WD_01
 
 I am actively working toward junior developer roles and frontend opportunities. Let's build together:
 
-*   **🐙 GitHub:** [@siddesh3448](https://github.com/siddesh3448)
+*   **🐙 GitHub:** [@adi-0005](https://github.com/adi-0005)
 *   **💼 LinkedIn:** [linkedin.com/in/siddesh-mallinath-mange-a44689351](https://linkedin.com/in/siddesh-mallinath-mange-a44689351)
 *   **📧 Email:** [siddeshmange3448@gmail.com](mailto:siddeshmange3448@gmail.com)
 
